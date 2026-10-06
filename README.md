@@ -21,7 +21,7 @@
 
 # 👩🏻‍💻 Olá, eu sou a Eloisa!
 
-Minha trajetória profissional nasceu na **Engenharia** e está ganhando um novo caminho através da **Tecnologia**.
+Minha trajetória profissional nasceu na **Engenharia Ambiental** e está ganhando um novo caminho através da **Tecnologia**.
 
 🌱 **Engenheira Ambiental e Sanitarista**  
 🦺 **Engenheira de Segurança do Trabalho**  
