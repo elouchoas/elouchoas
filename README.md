@@ -226,30 +226,6 @@ Ele também é o registro da minha evolução: dos primeiros exercícios ao dese
 
 ---
 
-# 📈 Evolução e atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elouchoas&bg_color=0D1117&color=00E5FF&line=7F52FF&point=00E5FF&area=true&hide_border=false&custom_title=Construindo%20um%20commit%20de%20cada%20vez" width="95%"/>
-
-</div>
-
-<br>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=elouchoas&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="90%"/>
-
-</div>
-
-<br>
-
----
-
 # 🐍 Construindo minha história no GitHub
 
 <div align="center">
